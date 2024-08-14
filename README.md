@@ -18,7 +18,7 @@
 - Suelo trabajar con PostgreSQL o MySQL
 - Aplico buenas prácticas de desarrollo como *hooks precommits*, pruebas unitarias, *pull requests*, CI & CD
   - mi [sitio web](https://1p.cl/) personal está con Django + CI & CD con Github actions 😄
-  - el 2021 hice una [charla](https://www.youtube.com/watch?v=L9NGtc61W0Q) en la primera PyCON de Chile sobre esto
+  - el 2021 hice una [charla](https://www.youtube.com/watch?v=L9NGtc61W0Q) en la primera PyCON de Chile sobre Buenas práticas de desarrollo en Python
 - Tenis 🎾, tenis de mesa 🏓 y padel son mis deportes favoritos
 
 - Actualmente, estoy abierto a nuevas oportunidades laborales 🔎
