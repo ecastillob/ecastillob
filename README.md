@@ -17,7 +17,8 @@
   - `slack-sdk` para integraciones con Slack
 - Suelo trabajar con PostgreSQL o MySQL
 - Aplico buenas prácticas de desarrollo como *hooks precommits*, pruebas unitarias, *pull requests*, CI & CD
-  - de hecho, mi [sitio web](https://1p.cl/) personal está con Django + CI & CD con Github actions 😄
+  - mi [sitio web](https://1p.cl/) personal está con Django + CI & CD con Github actions 😄
+  - el 2021 hice una [charla](https://www.youtube.com/watch?v=L9NGtc61W0Q) en la primera PyCON de Chile sobre esto
 - Tenis 🎾, tenis de mesa 🏓 y padel son mis deportes favoritos
 
 - Actualmente, estoy abierto a nuevas oportunidades laborales 🔎
