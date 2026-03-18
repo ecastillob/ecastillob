@@ -1,8 +1,8 @@
 ## Hola, soy Erick 😄
 
-- 👨‍💻 Backend developer
-- 💻 Tengo más de 5 años de experiencia laboral
-  - 📡 más de 3 años los he trabajado de forma 100% remota
+- 👨‍💻 Python Backend developer
+- 💻 Tengo más de 6 años de experiencia laboral
+  - 📡 más de 4 años los he trabajado de forma 100% remota
 - ♥️ Me encanta el ecosistema de Python
   - **Poetry** para la gestión de dependencias
   - **Django** + **DRF** como framework web
@@ -17,11 +17,13 @@
   - `slack-sdk` para integraciones con Slack
 - Suelo trabajar con PostgreSQL o MySQL
 - Aplico buenas prácticas de desarrollo como *hooks precommits*, pruebas unitarias, *pull requests*, CI & CD
-  - mi [sitio web](https://1p.cl/) personal está con Django + CI & CD con Github actions 😄
+  - mi [sitio web](https://1p.cl/) personal está hecho con Django + CI & CD con Github actions 😄
   - el 2021 hice una [charla](https://www.youtube.com/watch?v=L9NGtc61W0Q) en la primera PyCON de Chile sobre Buenas práticas de desarrollo en Python
 - Tenis 🎾, tenis de mesa 🏓 y padel son mis deportes favoritos
 
 - Actualmente, estoy abierto a nuevas oportunidades laborales 🔎
   - Mientras sigo en la búsqueda de empleo, estoy profundizando mis conocimientos de AWS 🌱
+    - herramientas más integrales como Step Functions son mis objetivos a aprender
+  - Mi nivel de inglés es intermedio/avanzado
  
 - Me puedes encontrar en [Discord](https://discord.com/) como `ecastillob` 📫
