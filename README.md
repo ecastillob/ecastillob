@@ -19,11 +19,7 @@
 - Aplico buenas prácticas de desarrollo como *hooks precommits*, pruebas unitarias, *pull requests*, CI & CD
   - mi [sitio web](https://1p.cl/) personal está hecho con Django + CI & CD con Github actions 😄
   - el 2021 hice una [charla](https://www.youtube.com/watch?v=L9NGtc61W0Q) en la primera PyCON de Chile sobre Buenas práticas de desarrollo en Python
+- Mi nivel de inglés es intermedio/avanzado
 - Tenis 🎾, tenis de mesa 🏓 y padel son mis deportes favoritos
-
-- Actualmente, estoy abierto a nuevas oportunidades laborales 🔎
-  - Mientras sigo en la búsqueda de empleo, estoy profundizando mis conocimientos de AWS 🌱
-    - herramientas más integrales como Step Functions son mis objetivos a aprender
-  - Mi nivel de inglés es intermedio/avanzado
  
 - Me puedes encontrar en [Discord](https://discord.com/) como `ecastillob` 📫
