@@ -1,11 +1,11 @@
 ## Hola, soy Erick 😄
 
 - 👨‍💻 Python Backend developer
-- 💻 Tengo más de 6 años de experiencia laboral
-  - 📡 más de 4 años los he trabajado de forma 100% remota
+- 💻 Tengo más de 7 años de experiencia laboral
+  - 📡 más de 5 años los he trabajado de forma 100% remota
 - ♥️ Me encanta el ecosistema de Python
   - **Poetry** para la gestión de dependencias
-  - **Django** + **DRF** como framework web
+  - **Django** + **DRF** como framework web, y ocasionalmente **FastAPI**
   - `isort`, `black`, `flake8`, `mccabe`, `pylint`, `prospector`, `codespell`, `bandit`, `safety` para hook precommit
   - `requests` para peticiones HTTP síncronas, `aiohttp` y `httpx` para peticiones HTTP asíncronas
   - `boto3` y `awswrangler` para AWS
